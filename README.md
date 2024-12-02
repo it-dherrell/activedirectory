@@ -10,11 +10,6 @@ Welcome to my **Active Directory Scripts** repository! This collection of script
 - **Report Generation**: Generate reports for user accounts, group memberships, and more.
 - **Automation**: Automate routine AD tasks for improved efficiency.
 
-## Repository Structure
-
-- **`/Scripts`**: Contains various PowerShell or Python scripts for Active Directory management.
-- **`README.md`**: Documentation to help you understand and use the scripts.
-
 ## Getting Started
 
 ### Prerequisites
